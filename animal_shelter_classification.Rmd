@@ -14,6 +14,9 @@ Please correct all the computations .... move yours ...
 
 I did b***h
 
+
+21343432
+
 Predict the chance of being adopted for a pet taken to a shelter
 
 * website is at https://ssamsonau.github.io/animal_shelter/     
